@@ -1,0 +1,14 @@
+[{
+    "id": 1,
+	"todo": "Clean the keyboard",
+	"completed": true
+},{
+    "id": 2,
+	"todo": "Apply to NGSOFT",
+	"completed": false
+},{
+    "id": 3,
+	"todo": "Hi Doron how are you?",
+	"completed": true
+}
+]
